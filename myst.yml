@@ -19,6 +19,12 @@ project:
       - file: ./Lecture_Notes_and_Code/Unsupervised_Learning/SVD_and_Image_Analysis.ipynb
       - title: Introduction to k-Means Clustering 
       - file: ./Lecture_Notes_and_Code/Unsupervised_Learning/Applications_of_the_SVD_and_Cluster_Analysis.ipynb
+    - title: Statistics and Regression
+      children:
+      - title: Introduction to Statistics and Regression
+      - file: ./Lecture_Notes_and_Code/Regression_and_Sparsity/Regression_and_Regularization_Part_One.ipynb
+      - title: Histograms and Bias/Variance Analysis
+      - file: ./Lecture_Notes_and_Code/Regression_and_Sparsity/Histograms_and_Bias_Variance_Analysis.ipynb
     - title: Signals, Processing, and Decomposition
       children:
       - title: Fourier Transforms and Series
