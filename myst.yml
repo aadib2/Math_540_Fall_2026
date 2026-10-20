@@ -11,7 +11,7 @@ project:
   toc:
     - title: Mathematical Tools in Data Science and Machine Learning 
     - file: ./chapter_files/index.md
-    - title: Unsupervised Learning 
+    - title: Linear Algebra and Unsupervised Learning 
       children:
       - title: Linear Algebra for the Mathematical Data Scientist  
       - file: ./Lecture_Notes_and_Code/Unsupervised_Learning/Linear_Algebra_for_Data_Scientists.ipynb
@@ -19,7 +19,7 @@ project:
       - file: ./Lecture_Notes_and_Code/Unsupervised_Learning/SVD_and_Image_Analysis.ipynb
       - title: Introduction to k-Means Clustering 
       - file: ./Lecture_Notes_and_Code/Unsupervised_Learning/Applications_of_the_SVD_and_Cluster_Analysis.ipynb
-    - title: Statistics and Regression
+    - title: Statistics and Supervised Learning
       children:
       - title: Probability for the Data Scientist 
       - file: ./Lecture_Notes_and_Code/Regression_and_Sparsity/Probability_for_the_Data_Scientist.ipynb
