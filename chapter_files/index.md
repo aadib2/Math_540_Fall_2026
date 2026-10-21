@@ -4,3 +4,4 @@ These are the course notes (moving towards a book) focusing on teaching mathemat
 * Data Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control, by Steven L. Brunton, J. Nathan Kutz
 * Machine Learning: A Bayesian and Optimization Perspective, by Sergios Theodoridis
 * All of Statistics: A Concise Course in Statistical Inference, by Larry Wasserman 
+* Deep Learning Architectures: A Mathematical Approach, by Ovidiu Calin
