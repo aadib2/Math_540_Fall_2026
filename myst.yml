@@ -29,6 +29,12 @@ project:
       - file: ./Lecture_Notes_and_Code/Regression_and_Sparsity/Histograms_and_Bias_Variance_Analysis.ipynb
       - title: Logistic Regression, Classification, and Optimization
       - file: ./Lecture_Notes_and_Code/Regression_and_Sparsity/Classification_and_Logistic_Regression.ipynb
+    - title: Neural Networks and Machine Learning 
+      children:
+      - title: Introduction to Neural Networks and Deep Learning
+      - file: ./Lecture_Notes_and_Code/Machine Learning/Neural_Networks_and_PyTorch.ipynb
+      - title: Convolutional Neural Networks and Image Processing
+      - file: ./Lecture_Notes_and_Code/Machine Learning/Convolutional_Networks_and_Pooling_Layers.ipynb
     - title: Signals, Processing, and Decomposition
       children:
       - title: Fourier Transforms and Series
